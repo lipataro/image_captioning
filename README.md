@@ -8,7 +8,7 @@ It is a process of recognizing the context of an image and annotating it with re
 For this purpose, we need to process both the language or statements and the images. For the Language part, we use recurrent Neural Networks (RNN) and for the Image part, we use Convolutional Neural Networks (CNN) to obtain the feature vectors respectively. In this case, the features of each image will be extracted by a CNN encoder which uses a pre-trained ResNet model provided by Pytorch. <br>
 The extracted features will be fed to a LSTM decoder which in turn generates a possible image caption. MS-COCO is one of the most used datasets for this purpose. <br>
 
-The jupyter notebook available in this repository covers the following topics:
+The [jupyter notebook](Image_caption_project.ipynb) available in this repository covers the following topics:
 - Exploring COCO dataset
 - Preprocessing images and captions
 - Encoder: pre-trained CNN with ResNet 152
