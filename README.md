@@ -22,3 +22,5 @@ The [jupyter notebook](Image_caption_project.ipynb) available in this repository
 
 ### ROUGE_L Scores Histogram for a sample of images
 <img width="480" alt="ROUGE_L Scores Histogram" src="https://user-images.githubusercontent.com/98893201/163877662-284661b3-ceca-4ab1-b3f1-8bc9b45225a9.png">
+
+This project was part of the [Asigmo Data Science Training Program](https://www.asigmo.com/data-science-bootcamp).<br>
