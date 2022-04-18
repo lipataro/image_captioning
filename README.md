@@ -15,3 +15,10 @@ The [jupyter notebook](Image_caption_project.ipynb) available in this repository
 - Decoder: LSTM for training and testing
 - Rouge_L metrics 
 - Coco Evaluation toolkit 
+
+### Example of a generated caption with this trained model
+<img alt="caption for a given" src="https://user-images.githubusercontent.com/98893201/163877605-dfa8d655-9129-4d40-831a-d3955e035aae.png">
+
+
+### ROUGE_L Scores Histogram for a sample of images
+<img width="480" alt="ROUGE_L Scores Histogram" src="https://user-images.githubusercontent.com/98893201/163877662-284661b3-ceca-4ab1-b3f1-8bc9b45225a9.png">
